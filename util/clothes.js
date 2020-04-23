@@ -1,0 +1,20 @@
+var clothes = {
+  id,
+  name,
+  style:{
+    gorgeous,
+    rustic,
+    elegant,
+    vivacious,
+    sweeteTempered,
+    heroic,
+    charming,
+    fresh,
+    traditional,
+    exotic,
+    dignified,
+    playful,
+  },
+  tag,
+  color,
+}
